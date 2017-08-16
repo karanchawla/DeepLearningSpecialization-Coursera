@@ -18,5 +18,5 @@ Currently this repo contains all te programming assignments for the first course
 - [Week 4 PA2](https://github.com/karanchawla/DeepLearningSpecialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv3.ipynb)
 
 ### TO DO
-- [] Add quiz screenshots
-- [] Add course 2 quizes
+- [ ] Add quiz screenshots
+- [ ] Add course 2 quizes
