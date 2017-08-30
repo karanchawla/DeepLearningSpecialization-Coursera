@@ -17,6 +17,13 @@ Currently this repo contains all te programming assignments for the first course
 - [Week 4 PA1](https://github.com/karanchawla/DeepLearningSpecialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv3.ipynb)
 - [Week 4 PA2](https://github.com/karanchawla/DeepLearningSpecialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv3.ipynb)
 
+### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+- [Week 1 - PA 1 - Initialization](https://github.com/karanchawla/DeepLearningSpecialization-Coursera/blob/master/Course_2/Initialization.ipynb)
+- [Week 1 - PA 1 - Regularization](https://github.com/karanchawla/DeepLearningSpecialization-Coursera/blob/master/Course_2/Regularization.ipynb)
+- [Week 1 - PA 1 - Gradient Checking](https://github.com/karanchawla/DeepLearningSpecialization-Coursera/blob/master/Course_2/Gradient%2BChecking.ipynb)
+- [Week 1 - PA 1 - Optimization Methods](https://github.com/karanchawla/DeepLearningSpecialization-Coursera/blob/master/Course_2/Optimization%20Methods.ipynb)
+- [Week 1 - PA 1 - TensorFlow Tutorial](https://github.com/karanchawla/DeepLearningSpecialization-Coursera/blob/master/Course_2/TensorflowTutorial.ipynb)
+
 ### TO DO
 - [ ] Add quiz screenshots
-- [ ] Add course 2 quizes
+- [x] Add course 2 assignments
